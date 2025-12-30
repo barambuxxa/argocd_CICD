@@ -1,6 +1,6 @@
 #Ту всё что касается создания пода. Образ, количество реплик, значение паямти и cpu
 image:
-  repository: gumidu/php-app-gurenich:latest
+  repository: gumidu/php-app-gurenich
   tag: latest
   pullPolicy: IfNotPresent
 
